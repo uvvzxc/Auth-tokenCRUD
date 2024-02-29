@@ -1,0 +1,11 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\bin\Debug\net8.0\Crud-with-token.Domain.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\bin\Debug\net8.0\Crud-with-token.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\bin\Debug\net8.0\Crud-with-token.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\Crud-with-token.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\Crud-with-token.Domain.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\Crud-with-token.Domain.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\Crud-with-token.Domain.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\Crud-with-token.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\refint\Crud-with-token.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\Crud-with-token.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Domain\obj\Debug\net8.0\ref\Crud-with-token.Domain.dll

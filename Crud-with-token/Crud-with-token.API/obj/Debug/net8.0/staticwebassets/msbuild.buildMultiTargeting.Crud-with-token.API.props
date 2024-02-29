@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Crud-with-token.API.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\bin\Debug\net8.0\Crud-with-token.Infrastructure.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\bin\Debug\net8.0\Crud-with-token.Infrastructure.runtimeconfig.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\bin\Debug\net8.0\Crud-with-token.Infrastructure.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\bin\Debug\net8.0\Crud-with-token.Infrastructure.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\bin\Debug\net8.0\Crud-with-token.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\bin\Debug\net8.0\Crud-with-token.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-wit.17A88558.Up2Date
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\refint\Crud-with-token.Infrastructure.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\Crud-with-token.Infrastructure.genruntimeconfig.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Infrastructure\obj\Debug\net8.0\ref\Crud-with-token.Infrastructure.dll

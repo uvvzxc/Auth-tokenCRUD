@@ -1,0 +1,17 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\bin\Debug\net8.0\Crud-with-token.Application.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\bin\Debug\net8.0\Crud-with-token.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\bin\Debug\net8.0\Crud-with-token.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\bin\Debug\net8.0\Crud-with-token.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\bin\Debug\net8.0\Crud-with-token.Infrastructure.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\bin\Debug\net8.0\Crud-with-token.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\bin\Debug\net8.0\Crud-with-token.Infrastructure.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-with-token.Application.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-with-token.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-with-token.Application.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-with-token.Application.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-with-token.Application.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-wit.16414113.Up2Date
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-with-token.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\refint\Crud-with-token.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\Crud-with-token.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\Crud-with-token\Crud-with-token.Application\obj\Debug\net8.0\ref\Crud-with-token.Application.dll
